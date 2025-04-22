@@ -1,16 +1,34 @@
-# flutter_portfolio_mobile
+# 📱 Portafolio Flutter - Isaac Méndez Rodríguez
 
-A new Flutter project.
+Este proyecto es una aplicación móvil desarrollada con **Flutter**, que presenta mi portafolio profesional. Está diseñada con un enfoque **UX/UI moderno**, monocromático en tonos azules, animaciones suaves y optimizada para pantallas móviles.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧠 Características
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Interfaz mobile minimalista en tonos azules
+- ✅ Animaciones suaves entre pantallas
+- ✅ Navegación por `NavigationBar` con íconos
+- ✅ Secciones del portafolio:
+  - Perfil Profesional
+  - Educación
+  - Habilidades Técnicas y Blandas
+  - Proyectos
+  - Contacto con integración de enlaces externos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Capturas de pantalla
+
+*(Agrega aquí screenshots desde tu emulador Android o teléfono físico)*
+
+---
+
+## 🚀 Instalación local
+
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO.git
+cd NOMBRE_DEL_REPOSITORIO
+
